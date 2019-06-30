@@ -23,7 +23,7 @@
 
 ***************************************************         
 ###  代代码     
-···     听说可以写注释    
+```     听说可以写注释    
 #define _CRT_SBCURE_NO_DEPRECATE      
 #include <set>    
 #include <cmath>     
@@ -50,5 +50,5 @@ while(scanf("%d%d",&a,&b)!=EOF)
 return 0;      
 }        
  
-···        
+```       
 
